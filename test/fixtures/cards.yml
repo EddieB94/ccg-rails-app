@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  title: MyString
+  artist: MyString
+  type: 
+  cost: MyString
+  set: MyString
+  rarity: MyString
+  power: 
+  toughness: 
+  identity: MyString
+
+two:
+  name: MyString
+  title: MyString
+  artist: MyString
+  type: 
+  cost: MyString
+  set: MyString
+  rarity: MyString
+  power: 
+  toughness: 
+  identity: MyString
